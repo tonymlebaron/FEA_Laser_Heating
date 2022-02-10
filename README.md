@@ -1,2 +1,3 @@
 # FEA_Laser_Heating
-FEA code for heating and phase change of thin films on metal substrates. To predict ablation due to laser heating.
+This is an explicit time-dependent FEA code that solves the heat equation of a bilayer material. The model is specifically designed to predict ablation of thin films on top of metal substrates due to pulsed laser heating.
+For more details, see model_description.pdf
